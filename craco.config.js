@@ -3,7 +3,7 @@
 //         postcss: {
 //             plugins:[
 //                 require('tailwindcss'),
-//                 require('autoprefix'),
+//                 require('autoprefixer'),
 //             ],
 //         },
 //     },
